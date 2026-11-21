@@ -1,0 +1,18 @@
+langchain
+langchain-core
+langchain-groq
+langgraph
+langchain-community
+
+# for logging and debugging
+langsmith   
+langgraph-cli[inmem]
+
+# for MCP
+langchain-mcp-adapters
+mcp
+feedparser   # to read the RSS feeds ( means newspaper like TOI- times of india, Hindu, etc.)
+arxiv
+
+ipykernel   # for running Jupyter notebooks
+python-dotenv  # for loading environment variables from .env files
