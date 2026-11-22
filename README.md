@@ -33,6 +33,7 @@ Terminal -> aws --version
 aws-cli/2.42.1 Python/3.14.10 Darwin/24.6.0 exe/x86_64
 
 Then search IAM in aws page -> IAM users ->Create user
+
 8-
 9-
 10-
@@ -44,7 +45,13 @@ Then search IAM in aws page -> IAM users ->Create user
 
 1- langsmith --> not getting added, will implement it later
 
-2-
+2-  
+    keywords = [
+        "ai", "artificial intelligence", "machine learning",
+        "generative ai", "llm", "deep learning", "robotics", "neural networks", "computer vision", "natural language processing", "agentic ai"
+    ]
+
+    need to fix this keyword as in newsletter any keyword can be possible not necessary these.
 3-
 4-
 

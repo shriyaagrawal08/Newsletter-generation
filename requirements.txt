@@ -16,3 +16,8 @@ arxiv
 
 ipykernel   # for running Jupyter notebooks
 python-dotenv  # for loading environment variables from .env files
+
+
+# aws
+boto3  # python application to interact with AWS
+botocore   # library that powers boto3
